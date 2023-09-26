@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #Ładuję dane
-df=pd.read_csv('/content/drive/MyDrive/ML Klejment/projekt/BigMac_Index_by_Contry.csv')
-df2=pd.read_csv('/content/drive/MyDrive/ML Klejment/projekt/Inflation_forecast_all_countries.csv')
+df=pd.read_csv('BigMac_Index_by_Contry.csv')
+df2=pd.read_csv('Inflation_forecast_all_countries.csv')
 
 df.head()
 
