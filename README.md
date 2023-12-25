@@ -1,1 +1,1 @@
-# Projekt zaliczeniowy na wprowadzenie do ML
+# Pierwszy projekt ML
